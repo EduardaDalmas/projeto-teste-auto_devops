@@ -1,0 +1,26 @@
+{
+	"name": "projeto-teste-auto_devops",
+	"version": "1.0.0",
+	"description": "# Sobre o teste",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/EduardaDalmas/projeto-teste-auto_devops.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/EduardaDalmas/projeto-teste-auto_devops/issues"
+	},
+	"homepage": "https://github.com/EduardaDalmas/projeto-teste-auto_devops#readme",
+	"devDependencies": {
+		"cypress": "^13.6.0"
+	},
+	"dependencies": {
+		"@kurkle/color": "^0.3.2",
+		"cypress": "^13.6.0"
+	}
+}
