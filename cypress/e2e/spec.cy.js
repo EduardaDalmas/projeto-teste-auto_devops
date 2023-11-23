@@ -1,6 +1,6 @@
 describe('Acesso ao sistema de teste', () => {
 	beforeEach(() => {
-		cy.visit('https://projetoweb1hoteljpand.000webhostapp.com/index.php/');
+		cy.visit('https://projetoweb1hoteljpand.000webhostapp.com');
 	});
 
 	it('Validar a página', () => {
