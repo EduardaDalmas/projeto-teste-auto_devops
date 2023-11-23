@@ -1,6 +1,6 @@
 # projeto-teste-auto_devops
 
-Cenários de testes de site de reservas desernvolvido por aluno da IENH e utilizado para testes.
+Cenários de testes de site de reservas desenvolvido por aluno da IENH e utilizado para testes.
 
 #### Parte 1:
 
