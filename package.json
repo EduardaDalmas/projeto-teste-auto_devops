@@ -17,8 +17,9 @@
 	},
 	"homepage": "https://github.com/EduardaDalmas/projeto-teste-auto_devops#readme",
 	"devDependencies": {
+		"@kurkle/color": "^0.3.2",
 		"cypress": "^13.4.0",
-		"@kurkle/color": "^0.3.2"
+		"cypress-file-upload": "^5.0.8"
 	},
 	"dependencies": {
 		"@kurkle/color": "^0.3.2",
