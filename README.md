@@ -19,3 +19,4 @@ Integre os cenários de teste desenvolvidos no Git Actions.
 1. npm init
 2. npm install --save-dev cypress
 3. npx cypress open
+4. npm run cypres:run (rodar testes no terminal)
